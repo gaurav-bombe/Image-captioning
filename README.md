@@ -16,7 +16,7 @@ Notebook 3 : Validating the model and Do some fun with it
 
 ---
 
-Licensce & Copyright
+License & Copyright
 
 This Repository created just to showcase my work for the Computer Vision Nanodegree program of Udacity. You are advisied not to Copy any Solution Codes.
 
