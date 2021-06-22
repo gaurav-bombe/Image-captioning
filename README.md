@@ -4,7 +4,7 @@ The Encoder-Decoder model uses ResNet-50 architecture.
 
 ---
 
-Contents
+## Contents
 
 Notebook 0 : Loading and Visualizing the Coco Dataset
 
@@ -16,7 +16,7 @@ Notebook 3 : Validating the model and Do some fun with it
 
 ---
 
-License & Copyright
+## License & Copyright
 
 This Repository created just to showcase my work for the Computer Vision Nanodegree program of Udacity. You are advisied not to Copy any Solution Codes.
 
